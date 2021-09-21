@@ -6,6 +6,7 @@ services:
   - docker
 
 # Pre-testing installs
+#check build
 install:
   - echo "nothing needs to be installed"
 
